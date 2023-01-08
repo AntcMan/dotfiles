@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = anthonycmarion@gmail.com
+	name = Anthony Marion
